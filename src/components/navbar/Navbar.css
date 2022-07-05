@@ -1,0 +1,34 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.logo{
+    font-family: 'Space Grotesk', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3.2rem;
+
+
+    background: linear-gradient(97.67deg, #5D4CFA 17.12%, #F6A60A 65%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+}
+
+.navbar-buttons{
+    display: flex;
+    align-items: center;
+}
+
+.navbar__button{
+    padding: 2rem;
+    margin: 0 1rem;
+    font-size: 2rem;
+}
+

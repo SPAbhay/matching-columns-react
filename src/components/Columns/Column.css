@@ -1,0 +1,26 @@
+.columns{
+    display: flex;
+    justify-content: space-around;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 3rem 0;
+}
+
+.row{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    padding: 2rem 4rem;
+    border: 0.25px solid #000000;
+    box-shadow: -4px 4px 4px rgba(0, 0, 0, 0.25);
+    cursor: grab;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}

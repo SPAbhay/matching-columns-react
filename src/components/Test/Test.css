@@ -1,0 +1,38 @@
+.content{
+    margin: 2rem;
+}
+
+.content-start{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+
+}
+
+.test-name{
+    /*margin: 2rem;*/
+}
+
+.test-marks{
+    /*margin: 2rem;*/
+}
+
+.content-description{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.6rem;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.end-test{
+
+}
